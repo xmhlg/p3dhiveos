@@ -1,0 +1,7 @@
+echo "# p3dhiveos" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:xmhlg/p3dhiveos.git
+git push -u origin main
